@@ -1,6 +1,5 @@
 import jwt from "jsonwebtoken";
-const bcrypt = require('bcryptjs');
-
+import bcrypt from "bcryptjs";
 import doctorModel from "../models/doctorModel.js";
 import appointmentModel from "../models/appointmentModel.js";
 
