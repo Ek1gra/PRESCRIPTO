@@ -23,6 +23,8 @@ app.use(cors({
     // "https://prescripto-tajd.vercel.app",   // your admin panel
     // "https://prescripto-42us.vercel.app",
     // "https://prescripto-zk4r.vercel.app",  //admin
+    "https://prescripto-js8u.vercel.app", //admin
+    "https://prescripto-pied.vercel.app",
     "http://localhost:5173",
     "http://localhost:5174"
   ],
