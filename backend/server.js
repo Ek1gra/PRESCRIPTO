@@ -26,6 +26,7 @@ app.use(cors({
     "https://prescripto-js8u.vercel.app", //admin
     "https://prescripto-pied.vercel.app",
     "https://prescripto-dd12.vercel.app",
+    "https://prescripto-eosin-mu.vercel.app",
     "http://localhost:5173",
     "http://localhost:5174"
   ],
